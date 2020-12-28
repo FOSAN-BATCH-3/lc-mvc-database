@@ -1,0 +1,23 @@
+{
+  "name": "lc-mvc-database",
+  "version": "1.0.0",
+  "description": "![MVC/SQLITE3/CALLBACK](https://img.shields.io/badge/Tech%20Stack-MVC%2FPOSTGRES%2FCALLBACK-green.svg)",
+  "main": "conection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FOSAN-BATCH-3/lc-mvc-database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FOSAN-BATCH-3/lc-mvc-database/issues"
+  },
+  "homepage": "https://github.com/FOSAN-BATCH-3/lc-mvc-database#readme",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
+}
