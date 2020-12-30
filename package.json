@@ -1,0 +1,14 @@
+{
+  "name": "sql-connect",
+  "version": "1.0.0",
+  "description": "tentang sql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdul",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
+}
